@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">QR - Wifi Connector</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">QR Wifi Connector</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Headers-->
+    <string name="string_header_howtouse">About</string>
+    <string name="string_header_scanqr">Scan QR</string>
+    <string name="string_header_generateqr">Create QR</string>
+    <string name="string_header_rate_me">Rate Me</string>
+
+    <!--HomePage-->
+    <string name="string_info_scanqr">If you have QR code created specifically for Wifi networks, you can connect to the network with scan QR.</string>
+    <string name="string_button_scanqr">Scan QR</string>
+    <string name="string_button_check">Check the network</string>
+    <string name="string_connecting">Connecting.</string>
+    <string name="string_connected">Connected</string>
+    <string name="string_failed">Failed to connect to network</string>
+    <string name="string_invalid">You are scanned an invalid QR</string>
+
+    <string name="string_appurl">https://play.google.com/store/apps/details?id=com.aliozel.qrwificonnector</string>
+
+    <!--GeneratePage-->
+    <string name="string_et_ssid">Your Wifi SSID</string>
+    <string name="string_et_password">Your Wifi Password</string>
+    <string name="string_select_your_networktype">Select your Wifi type</string>
+    <string name="string_button_createqr">Create QR</string>
+    <string name="string_button_createqr_again">Create a new QR</string>
+    <string name="string_button_createpdf">Create and Open PDF</string>
+
+    <!--HowToUse-->
+    <string name="string_tv_howtouse">The QR-Wifi Connector App was developed to provide an easy connection
+        to a wifi network in an area. Within the application you can create a QR code for your Wifi
+        network and you have set the QR code read devices automatically connect to the Wifi network.\n\n\n
+        Note:The application is in beta. It will be in the development phase and will have striking innovations.</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3D4750</color>
+    <color name="colorPrimaryDark">#3D4750</color>
+    <color name="colorAccent">#3D4750</color>
+
+    <color name="limedspruce">#3D4750</color>
+    <color name="alto">#d7d3d3</color>
+</resources>

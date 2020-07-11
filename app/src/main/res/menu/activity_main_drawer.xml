@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_qr_reader"
+            android:iconTint="@color/limedspruce"
+            android:title="@string/string_header_scanqr" />
+        <item
+            android:id="@+id/nav_add"
+            android:icon="@drawable/ic_question_plus"
+            android:iconTint="@color/limedspruce"
+            android:title="@string/string_header_generateqr" />
+        <item
+            android:id="@+id/nav_howtouse"
+            android:icon="@drawable/ic_qr_question"
+            android:iconTint="@color/limedspruce"
+            android:title="@string/string_header_howtouse" />
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_qrapptoxin"
+            android:iconTint="@color/limedspruce"
+            android:title="@string/string_header_rate_me" />
+    </group>
+</menu>

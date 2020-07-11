@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">QR - Wifi Connector</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">QR Wifi Connector</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Headers-->
+    <string name="string_header_howtouse">Uygulama Hakkında</string>
+    <string name="string_header_scanqr">QR Okut</string>
+    <string name="string_header_generateqr">QR Oluştur</string>
+    <string name="string_header_rate_me">Uygulamaya Oy Ver</string>
+
+
+    <!--HomePage-->
+    <string name="string_info_scanqr">Bulunduğunuz ortamda\nWifi ağları için özel oluşturulmuş\nQR kod bulunuyorsa okutup\nağa bağlanabilirsiniz.</string>
+    <string name="string_button_scanqr">QR Okut</string>
+    <string name="string_button_check">Ağı Kontrol Et</string>
+    <string name="string_connecting">Ağa Bağlanılıyor.</string>
+    <string name="string_connected">Ağa Bağlanıldı</string>
+    <string name="string_failed">Ağa Bağlanma Başarısız</string>
+    <string name="string_invalid">Geçersiz bir kod okuttunuz.</string>
+
+    <string name="string_appurl">https://play.google.com/store/apps/details?id=com.aliozel.qrwificonnector</string>
+
+    <!--GeneratePage-->
+    <string name="string_et_ssid">Wifi Adınızı Giriniz</string>
+    <string name="string_et_password">Wifi Şifrenizi Giriniz</string>
+    <string name="string_select_your_networktype">Ağ Türünüzü Seçiniz</string>
+    <string name="string_button_createqr">QR Kod Oluştur</string>
+    <string name="string_button_createqr_again">Yeni QR Kod Oluştur</string>
+    <string name="string_button_createpdf">PDF Oluştur</string>
+
+    <!--HowToUse-->
+    <string name="string_tv_howtouse">QR-Wifi Connector Uygulaması bir alanda bulunan wifi ağına kolay bağlantı sağlamak amacıyla geliştirilmiştir.\nUygulama içerisinde Wifi ağınızın bir QR kodunu oluşturabilir ve bu QR kodu okutan cihazlar belirlemiş olduğunuz Wifi ağına otomatik olarak bağlanabilirler.\n\n\nNot: Uygulama beta sürümündedir. Geliştirme aşamasında olup çarpıcı yeniliklere sahip olacaktır.</string>
+</resources>
